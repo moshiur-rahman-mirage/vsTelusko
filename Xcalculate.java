@@ -1,4 +1,4 @@
-class Calculator{
+class Calculatorx{
     int res;
     int a;
     int b;
@@ -16,7 +16,7 @@ public class Xcalculate {
         num1=4;
         num2=5;
 
-        Calculator cal = new Calculator();
+        Calculatorx cal = new Calculatorx();
         System.out.println(cal.Add(5,90));
     }
 }
