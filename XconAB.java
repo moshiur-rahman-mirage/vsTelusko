@@ -7,7 +7,7 @@ class A{
     }
 }
 
-class B extends A{
+class B extends A {
     public B(){
         super(7);
         System.out.println("in B");
